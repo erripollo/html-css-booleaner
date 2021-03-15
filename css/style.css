@@ -19,3 +19,24 @@
     padding-left: 15px;
     width: 350px;
 }
+
+h1{
+    font-size: 70px;
+    margin-bottom: 0px;
+}
+
+#autore{
+    color: #808080;
+    margin-top: 0px;
+    font-size: 35px;
+}
+
+#color_autore{
+    color: #24aae5;
+}
+
+#data{
+    color: #808080;
+    margin-top: 5px;
+    font-size: 25px;
+}
