@@ -99,6 +99,16 @@ thead{
     color: #808080;
 }
 
-.img_footer{
+.container{
+    position: relative;
     margin-bottom: 10px;
+}
+
+.text_img_footer{
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    color: white;
+    font-weight: 600;
+    font-size: 24px;
 }
