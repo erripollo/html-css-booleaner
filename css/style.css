@@ -1,0 +1,21 @@
+/* *{
+    box-sizing: border-box;
+    margin: 0;
+  } */
+
+#site_header{
+    background-color: #4ea0ff;
+    background-image: url("../img/pattern.png");
+    background-position-x: 130px;
+    height: 180px;
+}
+
+.logo{
+    width: 100%;
+}
+
+.box_logo{
+    padding-top: 70px;
+    padding-left: 15px;
+    width: 350px;
+}
