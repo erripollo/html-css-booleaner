@@ -92,3 +92,13 @@ thead{
 .riga_stile_1{
     background-color: #b1e5f2;
 }
+
+.titolo_footer{
+    font-size: 22px;
+    margin-top: 40px;
+    color: #808080;
+}
+
+.img_footer{
+    margin-bottom: 10px;
+}
