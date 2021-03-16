@@ -1,0 +1,127 @@
+/* *{
+    box-sizing: border-box;
+    margin: 0;
+  } */
+
+
+
+#site_header{
+    background-color: #4ea0ff;
+    background-image: url("../img/pattern.png");
+
+    background-size: 40%;
+    background-position-x: 100px;
+    height: 140px;
+}
+
+.logo{
+    width: 100%;
+}
+
+.box_logo{
+    padding-top: 60px;
+    padding-left: 15px;
+    width: 250px;
+}
+
+#site_main{
+    width: 1000px;
+    margin: auto;
+}
+
+h1{
+    margin-top: 20px;
+    font-size: 40px;
+    margin-bottom: 0px;
+}
+
+#autore{
+    color: #808080;
+    margin-top: 0px;
+    font-size: 20px;
+}
+
+#color_autore{
+    color: #24aae5;
+}
+
+#data{
+    color: #808080;
+    margin-top: 5px;
+    font-size: 14px;
+}
+
+.box_foto_articolo{
+    height: 350px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.foto_articolo{
+    height: 100%;
+}
+
+.corpo_articolo{
+    font-size: 20px;
+}
+
+.evidenziato{
+    background-color: #ffff01;
+}
+
+ul{
+    margin-top: 40px;
+    padding-left: 0px;
+    list-style-type: none;
+}
+
+li::before{
+    content: "•";
+    padding-right: 8px;
+}
+
+table{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+}
+
+thead{
+    background-color: #21a9e5;
+    color: white;
+}
+
+.colonna_stile_1{
+    width: 25%;
+}
+
+.riga_stile_1{
+    background-color: #b1e5f2;
+}
+
+#site_footer{
+    width: 1000px;
+    margin: auto;
+}
+
+.titolo_footer{
+    font-size: 22px;
+    margin-top: 40px;
+    color: #808080;
+}
+
+.container{
+    position: relative;
+    margin-bottom: 10px;
+}
+
+.text_img_footer{
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    color: white;
+    font-weight: 600;
+    font-size: 24px;
+}
